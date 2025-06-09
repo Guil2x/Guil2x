@@ -22,9 +22,3 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guil2x&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-<!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guil2x&layout=compact&langs_count=6&theme=vue"/>
-
-<!-- caso dê erro temporário, a API se recupera sozinha em algumas horas -->
