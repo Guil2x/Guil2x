@@ -1,4 +1,4 @@
-# 👋 Olá, sou Guilherme (Guil2x)
+# 👋 Olá, sou Guilherme Rudieri Machado
 
 🎓 **Engenharia Mecânica** (previsão conclusão 2025)  
 🐍 **Certificação Python** | 📘 **Inglês B2** (Cambridge)  
